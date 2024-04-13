@@ -1,4 +1,4 @@
-![image](https://github.com/pavizhi/WDM_EXP9/assets/95067176/e63d4dc6-df60-48f3-9c9f-a56f583f1ddb)### EX9 Preprocessing on Twitter Data using Rapidminer
+### EX9 Preprocessing on Twitter Data using Rapidminer
 ### DATE: 13-04-2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
